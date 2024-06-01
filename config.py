@@ -6,8 +6,8 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 
-API_ID = int(getenv("API_ID", "25752690")) #optional
-API_HASH = getenv("API_HASH", "b6738ffe95f802685d1208f19ef4fb20") #optional
+API_ID = int(getenv("API_ID", "27786766")) #optional
+API_HASH = getenv("API_HASH", "77793dae1816ca50f87192e8f32e4ae0") #optional
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 OWNER_ID = int(getenv("OWNER_ID"))
@@ -18,7 +18,7 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/KrishnaxMusic/Branded-Zaid-UserBot")
+REPO_URL = getenv("REPO_URL", "https://github.com/BRANDED-THUNDER/THUNDER-Zaid-UserBot")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
