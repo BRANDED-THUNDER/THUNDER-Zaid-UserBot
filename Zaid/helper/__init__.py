@@ -9,6 +9,6 @@ def restart():
 
 async def join(client):
     try:
-        await client.join_chat("BRANDRD_BOT")
+        await client.join_chat("FAKE_SMILE_78")
     except BaseException:
         pass
