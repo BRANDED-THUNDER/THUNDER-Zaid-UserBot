@@ -2,7 +2,7 @@
     "name": "Branded Zaid Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/KrishnaxMusic/Branded-Zaid-UserBot",
+    "repository": "https://github.com/BRANDED-THUNDER/THUNDER-Zaid-UserBot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -15,12 +15,12 @@
             "value": ""
         },
         "SUDO_USERS": {
-            "description": "Fill there your I'd go to @BRANDRD_ROBOT pm and type /id",
+            "description": "Fill there your I'd go to @lll_THUNDERXD_llll pm and type /id",
             "required": true,
-            "value": "6752444356 6883319725"
+            "value": "6848318915 6848318915"
         },
         "OWNER_ID": {
-            "description": "Fill there your I'd go to @BRANDRD_ROBOT pm and type /id",
+            "description": "Fill there your I'd go to @lll_THUNDERXD_llll pm and type /id",
             "required": true,
             "value": "6202250988"
         },
